@@ -29,13 +29,13 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ansh Bansal**, a **Computer Science & Engineering Student** based in Punjab, India. I specialize in front-end web engineering, core Object-Oriented Programming (OOP) in Java, and foundational data structures. 
+Hello! I'm **Ansh Bansal**, a **Computer Science & Engineering Student** based in Punjab, India. I specialize in front-end web engineering, core Object-Oriented Programming (OOP) in Java, relational databases (SQL), and foundational data structures. 
 
 My GitHub profile serves as a central hub for my academic coursework, university lab practicals, exam preparation materials, and modern web application projects.
 
 * 🎓 **Education:** B.Tech in Computer Science & Engineering
 * 📍 **Location:** Kurali, Mohali, Punjab, India
-* 🌐 **Primary Tech Stack:** React.js, JavaScript (ES6+), Java, HTML5, CSS3, Vite
+* 🌐 **Primary Tech Stack:** React.js, JavaScript (ES6+), Java, SQL (MySQL), HTML5, CSS3, Vite
 * 🛠️ **Developer Tooling:** Git, GitHub, VS Code, ESLint, Vercel
 * 🎯 **Goals:** Master modern full-stack architecture and advance core algorithm design
 
@@ -46,7 +46,8 @@ My GitHub profile serves as a central hub for my academic coursework, university
 ### 🚀 Programming Languages & Core
 | Domain | Technologies |
 | :--- | :--- |
-| **Primary Languages** | Java (Core OOP, Collections Framework), JavaScript (ES6+), C |
+| **Primary Languages** | Java (Core OOP, Collections Framework), JavaScript (ES6+), SQL, C |
+| **Databases & Management** | MySQL, Relational Database Management Systems (RDBMS) |
 | **Web Technologies** | HTML5, CSS3, ES Modules, Responsive Layouts (Flexbox/Grid) |
 | **Frameworks & Libraries** | React 18, Vite Bundler |
 | **Developer Tools** | Git, GitHub, VS Code, ESLint, Vercel CI/CD |
@@ -59,7 +60,7 @@ My GitHub profile serves as a central hub for my academic coursework, university
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,vite,c,git,github,vscode,vercel" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=java,js,mysql,react,html,css,vite,c,git,github,vscode,vercel" alt="Skills" />
   </a>
 </p>
 
@@ -72,7 +73,8 @@ My GitHub profile serves as a central hub for my academic coursework, university
 ```text
 AnshCodes94/
 │
-├── 📁 fee/                   # Front-End Engineering hub (React 18 + Vite, JS, Notes)
+├── 📁 DBMS-SQL/               # Relational Database scripts, SQL notes & query practicals
+├── 📁 fee/                    # Front-End Engineering hub (React 18 + Vite, JS, Notes)
 ├── 📁 DS-OOPS/                # Java Object-Oriented Programming & Data Structures
 ├── 📁 iwt-practical/          # Internet & Web Technologies practical assignments
 └── 📁 c-lab-practicals/       # C Programming foundational lab practicals & algorithms
