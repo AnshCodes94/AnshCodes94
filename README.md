@@ -1,34 +1,57 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:8a2be2&height=220&section=header&text=Ansh%20Bansal&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=CS%20Undergrad%20%7C%20Web%20%26%20Java%20Developer&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:7c3aed,100:007ec6&height=220&section=header&text=Ansh%20Bansal&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20%26%20Java%20Dev&descSize=18&descAlignY=70" width="100%" />
 
-### 🎓 Computer Science Undergrad | 💻 Full-Stack Web Dev & Java Enthusiast
+<!-- Dynamic Typing Line -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Java+%26+Data+Structures+Enthusiast+%E2%98%95;Building+Web+Apps+with+React+%2B+Vite+%E2%9A%A1;Documenting+Academic+Practicals+%26+Code+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansh122021@gmail.com)
+<br/>
+
+<!-- Quick Social Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ansh_bansal_018?stkn=MXB5M24wbmN1OTZoOQ==)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansh122021@gmail.com)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshCodes94)
 
 </div>
 
 ---
 
-### ⚡ Quick Facts
+## 👨‍💻 About Me
 
-- 🏫 **University:** Computer Science & Engineering Undergrad
-- 💻 **Tech Interests:** Web Development (React/JS), Core Java & Data Structures
-- 🚀 **Currently Building:** Academic projects (`fee`, `DS-OOPS`) and portfolio web apps
-- 📬 **Reach Me:** [ansh122021@gmail.com](mailto:ansh122021@gmail.com)
+Hello! I'm **Ansh Bansal**, a **Computer Science & Engineering Student** based in Punjab, India. I specialize in front-end web engineering, core Object-Oriented Programming (OOP) in Java, and foundational data structures. 
+
+My GitHub profile serves as a central hub for my academic coursework, university lab practicals, exam preparation materials, and modern web application projects.
+
+* 🎓 **Education:** B.Tech in Computer Science & Engineering
+* 📍 **Location:** Kurali, Mohali, Punjab, India
+* 🌐 **Primary Tech Stack:** React.js, JavaScript (ES6+), Java, HTML5, CSS3, Vite
+* 🛠️ **Developer Tooling:** Git, GitHub, VS Code, ESLint, Vercel
+* 🎯 **Goals:** Master modern full-stack architecture and advance core algorithm design
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 💻 Technical Competencies & Skills
+
+### 🚀 Programming Languages & Core
+| Domain | Technologies |
+| :--- | :--- |
+| **Primary Languages** | Java (Core OOP, Collections Framework), JavaScript (ES6+), C |
+| **Web Technologies** | HTML5, CSS3, ES Modules, Responsive Layouts (Flexbox/Grid) |
+| **Frameworks & Libraries** | React 18, Vite Bundler |
+| **Developer Tools** | Git, GitHub, VS Code, ESLint, Vercel CI/CD |
+
+<br/>
 
 <div align="center">
 
+### 🛠️ Interactive Skill Cloud
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,vite,git,github,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,vite,c,git,github,vscode,vercel" />
   </a>
 </p>
 
@@ -36,25 +59,12 @@
 
 ---
 
-### 📊 GitHub Statistics
+## 📚 Academic & Project Repositories
 
-<div align="center">
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnshCodes94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshCodes94&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshCodes94&layout=compact&theme=tokyonight&hide_border=true&hide=c,html" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-  
-<sub>Designed with ❤️ by Ansh Bansal</sub>
-
-</div>
+```text
+AnshCodes94/
+│
+├── 📁 fee/                   # Front-End Engineering hub (React 18 + Vite, JS, Notes)
+├── 📁 DS-OOPS/                # Java Object-Oriented Programming & Data Structures
+├── 📁 iwt-practical/          # Internet & Web Technologies practical assignments
+└── 📁 c-lab-practicals/       # C Programming foundational lab practicals & algorithms
