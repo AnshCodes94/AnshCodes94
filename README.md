@@ -1,19 +1,27 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:7c3aed,100:007ec6&height=220&section=header&text=Ansh%20Bansal&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20%26%20Java%20Dev&descSize=18&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=220&section=header&text=Ansh%20Bansal&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20and%20Java%20Dev&descSize=18&descAlignY=70" width="100%" />
 
 <!-- Dynamic Typing Line -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Java+%26+Data+Structures+Enthusiast+%E2%98%95;Building+Web+Apps+with+React+%2B+Vite+%E2%9A%A1;Documenting+Academic+Practicals+%26+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Java+and+Data+Structures+Enthusiast+%E2%98%95;Building+Web+Apps+with+React+%2B+Vite+%E2%9A%A1;Documenting+Academic+Practicals+and+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Quick Social Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ansh_bansal_018?stkn=MXB5M24wbmN1OTZoOQ==)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansh122021@gmail.com)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshCodes94)
+<p align="center">
+  <a href="https://www.instagram.com/ansh_bansal_018?stkn=MXB5M24wbmN1OTZoOQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ansh122021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AnshCodes94">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
@@ -51,7 +59,7 @@ My GitHub profile serves as a central hub for my academic coursework, university
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,vite,c,git,github,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,vite,c,git,github,vscode,vercel" alt="Skills" />
   </a>
 </p>
 
