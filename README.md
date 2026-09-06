@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=220&section=header&text=ANSH%20BANSAL&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20STUDENT%20%7C%20FULL%2DSTACK%20DEVELOPER&descSize=16&descAlignY=70" width="100%" />
 
-<!-- Dynamic Typing SVG Animation (Fixed Width to Avoid Text Truncation) -->
+<!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Building+things+%26+breaking+things%2C+one+commit+at+a+time...;Computer+Science+Undergraduate+%F0%9F%8E%93;Java+%2B+Data+Structures+Enthusiast+%E2%98%95;Full-Stack+Developer+(React+%2B+Vite+%2B+SQL)+%E2%9A%A1" alt="Typing SVG" />
 </a>
@@ -82,12 +82,15 @@ My GitHub profile serves as a central hub for my academic coursework, university
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- Dark-Mode Optimized Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshCodes94&theme=tokyo-night&hide_border=true&area=true" alt="Ansh's Activity Graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshCodes94/AnshCodes94/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshCodes94/AnshCodes94/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/AnshCodes94/AnshCodes94/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
