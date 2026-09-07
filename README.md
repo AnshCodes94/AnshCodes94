@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" />
+<img src="assets/header_professional.svg" width="100%" />
 
 <!-- Header Banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=220&section=header&text=ANSH%20BANSAL&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20STUDENT%20%7C%20JAVA%2C%20PYTHON%20%26%20FRONTEND%20DEVELOPER&descSize=16&descAlignY=70" width="100%" /> -->
@@ -121,6 +121,11 @@ My GitHub profile serves as a central hub for my **academic coursework, universi
 </picture>
 
 </div>
+
+
+
+<img src="footer_professional" width="100%" />
+
 
 
 
