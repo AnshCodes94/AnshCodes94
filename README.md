@@ -22,9 +22,9 @@
     <img src="assets/icon-email.svg" alt="Email" height="60" />
   </a>
   &nbsp;
-  <a href="https://github.com/AnshCodes94">
+  <!-- <a href="https://github.com/AnshCodes94">
     <img src="assets/icon-github.svg" alt="GitHub" height="60" />
-  </a>
+  </a> -->
 </p>
 
 </div>
