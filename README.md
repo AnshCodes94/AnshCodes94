@@ -7,7 +7,7 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Building+things+%26+breaking+things%2C+one+commit+at+a+time...;Computer+Science+Undergraduate+%F0%9F%8E%93;Java+%2B+Python+%2B+Data+Structures+Enthusiast+%E2%98%95;Frontend+Developer+(HTML+%2B+CSS+%2B+JavaScript+%2B+SQL)+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+things+%26+breaking+things%2C+one+commit+at+a+time...;Computer+Science+Undergraduate+%F0%9F%8E%93;Java+%2B+Python+%2B+Data+Structures+Enthusiast+%E2%98%95;Frontend+Developer+(HTML+%2B+CSS+%2B+JavaScript+%2B+SQL)+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,25 +36,29 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ansh Bansal**, a **Computer Science & Engineering Student** based in Punjab, India. I specialize in web development, core Object-Oriented Programming (OOP) in Java & Python, relational database design (SQL), and foundational data structures.
+Hello! I'm **Ansh Bansal**, a **Computer Science & Engineering Student** based in Punjab, India. I enjoy building practical software, exploring programming concepts, and turning ideas into working projects.
 
-My GitHub profile serves as a central hub for my academic coursework, university lab practicals, exam preparation materials, static web applications, and programming projects.
+My GitHub profile serves as a central hub for my **academic coursework, university lab practicals, exam preparation materials, web applications, database projects, and programming experiments**.
 
-* 🎓 **Education:** B.Tech in Computer Science & Engineering
-* 📍 **Location:** Kurali, Mohali, Punjab, India
-* 🌐 **Primary Tech Stack:** Python, Java, JavaScript, SQL (MySQL), HTML5, CSS3
-* 🛠️ **Developer Tooling:** Git, GitHub, VS Code, Vercel
-* 🎯 **Goals:** Master modern full-stack architecture and advance core algorithm design
+- 🎓 **Education:** B.Tech in Computer Science & Engineering
+- 📍 **Location:** Punjab, India
+- 🌐 **Primary Tech Stack:** Python, Java, JavaScript, SQL, HTML5, CSS3
+- 🛠️ **Developer Tooling:** Git, GitHub, VS Code, Vercel
+- 🎯 **Current Focus:** Full-stack development, OOP, databases & data structures
+- ⚡ **Mindset:** Learn → Build → Break → Debug → Repeat
 
 ---
 
 ## 💻 Tech Stack & Tools
 
 ### 🛠️ Interactive Tech Cloud
+
 <div align="center">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,mysql,git,github,vscode,vercel" alt="Ansh's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,mysql,git,github,vscode,vercel&theme=dark" alt="Ansh's Tech Stack" />
   </a>
+
 </div>
 
 <br/>
@@ -63,10 +67,29 @@ My GitHub profile serves as a central hub for my academic coursework, university
 
 | Domain / Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | `Python` `Java (Core OOP & Collections)` `C` `JavaScript (ES6+)` |
+| **Programming Languages** | `Python` `Java` `C` `JavaScript (ES6+)` |
+| **Object-Oriented Programming** | `Java OOP` `Inheritance` `Polymorphism` `Abstraction` `Interfaces` `Collections` |
 | **Databases & Management** | `SQL` `MySQL` `RDBMS Fundamentals` |
-| **Web & Frontend Development** | `HTML5` `CSS3` `Static Web Apps` `JavaScript DOM` |
+| **Web & Frontend Development** | `HTML5` `CSS3` `JavaScript` `DOM` `Static Web Apps` |
 | **Tools & Platforms** | `Git` `GitHub` `VS Code` `Vercel` `Markdown` |
+| **Core CS** | `Data Structures` `Algorithms` `DBMS` `OOP` `Problem Solving` |
+
+---
+
+## 🚀 What I'm Working On
+
+<div align="center">
+
+| 🧩 Area | 🔭 Focus |
+| :---: | :--- |
+| **Java** | OOP, Collections, Exception Handling & File Handling |
+| **Python** | Programming, Problem Solving & Automation |
+| **Web Development** | HTML, CSS, JavaScript & React |
+| **Databases** | SQL, MySQL & Relational Database Design |
+| **Computer Science** | Data Structures, Algorithms & DBMS |
+| **Projects** | Building practical applications and experimenting with new ideas |
+
+</div>
 
 ---
 
@@ -99,6 +122,5 @@ My GitHub profile serves as a central hub for my academic coursework, university
 
 </div>
 
----
 
-<img src="assets/footer.svg" width="100%" />
+
