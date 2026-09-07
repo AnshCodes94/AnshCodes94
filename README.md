@@ -122,10 +122,4 @@ My GitHub profile serves as a central hub for my **academic coursework, universi
 
 </div>
 
-
-
-<img src="footer_professional" width="100%" />
-
-
-
-
+<img src="footer.svg" width="100%" />
