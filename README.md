@@ -1,27 +1,29 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=220&section=header&text=ANSH%20BANSAL&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20STUDENT%20%7C%20FULL%2DSTACK%20DEVELOPER&descSize=16&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=220&section=header&text=ANSH%20BANSAL&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20STUDENT%20%7C%20JAVA%2C%20PYTHON%20%26%20FRONTEND%20DEVELOPER&descSize=16&descAlignY=70" width="100%" />
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Building+things+%26+breaking+things%2C+one+commit+at+a+time...;Computer+Science+Undergraduate+%F0%9F%8E%93;Java+%2B+Data+Structures+Enthusiast+%E2%98%95;Full-Stack+Developer+(React+%2B+Vite+%2B+SQL)+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Building+things+%26+breaking+things%2C+one+commit+at+a+time...;Computer+Science+Undergraduate+%F0%9F%8E%93;Java+%2B+Python+%2B+Data+Structures+Enthusiast+%E2%98%95;Frontend+Developer+(HTML+%2B+CSS+%2B+JavaScript+%2B+SQL)+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Connect With Me Links -->
-### 🌐 Connect With Me
+<!-- Connect With Me Links — Aurora Theme -->
+### 🌌 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/ansh_bansal_018?stkn=MXB5M24wbmN1OTZoOQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="assets/icon-instagram.svg" alt="Instagram" height="60" />
   </a>
+  &nbsp;
   <a href="mailto:ansh122021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="assets/icon-email.svg" alt="Email" height="60" />
   </a>
+  &nbsp;
   <a href="https://github.com/AnshCodes94">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="assets/icon-github.svg" alt="GitHub" height="60" />
   </a>
 </p>
 
@@ -31,14 +33,14 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ansh Bansal**, a **Computer Science & Engineering Student** based in Punjab, India. I specialize in front-end web engineering, core Object-Oriented Programming (OOP) in Java, relational database design (SQL), and foundational data structures.
+Hello! I'm **Ansh Bansal**, a **Computer Science & Engineering Student** based in Punjab, India. I specialize in web development, core Object-Oriented Programming (OOP) in Java & Python, relational database design (SQL), and foundational data structures.
 
-My GitHub profile serves as a central hub for my academic coursework, university lab practicals, exam preparation materials, and modern web application projects.
+My GitHub profile serves as a central hub for my academic coursework, university lab practicals, exam preparation materials, static web applications, and programming projects.
 
 * 🎓 **Education:** B.Tech in Computer Science & Engineering
 * 📍 **Location:** Kurali, Mohali, Punjab, India
-* 🌐 **Primary Tech Stack:** React.js, JavaScript (ES6+), Java, SQL (MySQL), HTML5, CSS3, Vite
-* 🛠️ **Developer Tooling:** Git, GitHub, VS Code, ESLint, Vercel
+* 🌐 **Primary Tech Stack:** Python, Java, JavaScript, SQL (MySQL), HTML5, CSS3
+* 🛠️ **Developer Tooling:** Git, GitHub, VS Code, Vercel
 * 🎯 **Goals:** Master modern full-stack architecture and advance core algorithm design
 
 ---
@@ -48,7 +50,7 @@ My GitHub profile serves as a central hub for my academic coursework, university
 ### 🛠️ Interactive Tech Cloud
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,c,mysql,git,github,vscode,vercel" alt="Ansh's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,mysql,git,github,vscode,vercel" alt="Ansh's Tech Stack" />
   </a>
 </div>
 
@@ -58,10 +60,10 @@ My GitHub profile serves as a central hub for my academic coursework, university
 
 | Domain / Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | `Java (Core OOP & Collections)` `JavaScript (ES6+)` `C` |
+| **Programming Languages** | `Python` `Java (Core OOP & Collections)` `C` `JavaScript (ES6+)` |
 | **Databases & Management** | `SQL` `MySQL` `RDBMS Fundamentals` |
-| **Web & Frontend Development** | `React 18` `Vite` `HTML5` `CSS3` `ES Modules` |
-| **Tools & Platforms** | `Git` `GitHub` `VS Code` `Vercel` `ESLint` `Markdown` |
+| **Web & Frontend Development** | `HTML5` `CSS3` `Static Web Apps` `JavaScript DOM` |
+| **Tools & Platforms** | `Git` `GitHub` `VS Code` `Vercel` `Markdown` |
 
 ---
 
@@ -70,13 +72,13 @@ My GitHub profile serves as a central hub for my academic coursework, university
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AnshCodes94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ansh's GitHub Stats" width="48%" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=AnshCodes94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ansh's GitHub Stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshCodes94&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshCodes94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+</p> -->
 
 </div>
 
@@ -95,14 +97,3 @@ My GitHub profile serves as a central hub for my academic coursework, university
 </div>
 
 ---
-
-## 📚 Repositories Overview
-
-```text
-AnshCodes94/
-│
-├── 📁 DBMS-SQL/               # Relational Database scripts, SQL notes & query practicals
-├── 📁 fee/                    # Front-End Engineering hub (React 18 + Vite, JS, Notes)
-├── 📁 DS-OOPS/                # Java Object-Oriented Programming & Data Structures
-├── 📁 iwt-practical/          # Internet & Web Technologies practical assignments
-└── 📁 c-lab-practicals/       # C Programming foundational lab practicals & algorithms
