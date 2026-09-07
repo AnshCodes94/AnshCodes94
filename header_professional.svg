@@ -1,0 +1,147 @@
+<svg width="920" height="320" viewBox="0 0 920 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bgH" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#02050b"/>
+    <stop offset="0.52" stop-color="#06101a"/>
+    <stop offset="1" stop-color="#02060d"/>
+  </linearGradient>
+  <radialGradient id="vignetteH">
+    <stop offset="0" stop-color="#11263a" stop-opacity=".30"/>
+    <stop offset=".62" stop-color="#06101a" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#00030a" stop-opacity=".62"/>
+  </radialGradient>
+  <linearGradient id="auroraH1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00d6bd" stop-opacity="0"/>
+    <stop offset=".28" stop-color="#00c9b2" stop-opacity=".42"/>
+    <stop offset=".55" stop-color="#4fe5d1" stop-opacity=".72"/>
+    <stop offset=".82" stop-color="#2d8cff" stop-opacity=".30"/>
+    <stop offset="1" stop-color="#2d8cff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="auroraH2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#153b78" stop-opacity="0"/>
+    <stop offset=".35" stop-color="#4964ff" stop-opacity=".28"/>
+    <stop offset=".62" stop-color="#8b5cf6" stop-opacity=".55"/>
+    <stop offset=".82" stop-color="#38d9cf" stop-opacity=".25"/>
+    <stop offset="1" stop-color="#38d9cf" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="ringH" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#62e6dc"/>
+    <stop offset=".48" stop-color="#6d8cff"/>
+    <stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <linearGradient id="spiderMetal" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f3fbff"/>
+    <stop offset=".18" stop-color="#7d96a8"/>
+    <stop offset=".48" stop-color="#202e3a"/>
+    <stop offset=".68" stop-color="#9fb5c4"/>
+    <stop offset="1" stop-color="#111923"/>
+  </linearGradient>
+  <linearGradient id="spiderDark" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2b3a46"/>
+    <stop offset=".55" stop-color="#080d13"/>
+    <stop offset="1" stop-color="#02050a"/>
+  </linearGradient>
+  <linearGradient id="nameH" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#f4f8fb"/>
+    <stop offset=".58" stop-color="#d8e7f0"/>
+    <stop offset="1" stop-color="#8ce9e0"/>
+  </linearGradient>
+  <filter id="blur12" x="-40%" y="-100%" width="180%" height="300%"><feGaussianBlur stdDeviation="12"/></filter>
+  <filter id="blur5" x="-40%" y="-100%" width="180%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="5"/><feOffset dy="3"/>
+    <feComponentTransfer><feFuncA type="linear" slope=".65"/></feComponentTransfer>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="clipH"><rect width="920" height="320" rx="24"/></clipPath>
+</defs>
+
+<g clip-path="url(#clipH)">
+  <rect width="920" height="320" fill="url(#bgH)"/>
+
+  <!-- restrained aurora ribbons -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M-80 65 C120 5 225 145 395 74 C545 12 680 20 1000 92" stroke="#20d9c4" stroke-width="22" opacity=".16" filter="url(#blur12)"/>
+    <path d="M-80 65 C120 5 225 145 395 74 C545 12 680 20 1000 92" stroke="url(#auroraH1)" stroke-width="5" opacity=".55" filter="url(#blur5)"/>
+    <path d="M-100 158 C90 205 225 70 405 145 C585 220 735 88 1010 150" stroke="#765cff" stroke-width="24" opacity=".11" filter="url(#blur12)"/>
+    <path d="M-100 158 C90 205 225 70 405 145 C585 220 735 88 1010 150" stroke="url(#auroraH2)" stroke-width="4" opacity=".46" filter="url(#blur5)"/>
+    <path d="M-90 245 C130 180 270 300 475 228 C665 160 820 260 1010 205" stroke="#2bd8cf" stroke-width="15" opacity=".07" filter="url(#blur12)"/>
+    <path d="M-90 245 C130 180 270 300 475 228 C665 160 820 260 1010 205" stroke="#48cfc5" stroke-width="2.5" opacity=".24"/>
+  </g>
+
+  <!-- stars -->
+  <g fill="#dcecf5">
+    <circle cx="86" cy="52" r="1" opacity=".55"/><circle cx="174" cy="116" r=".8" opacity=".45"/>
+    <circle cx="245" cy="38" r="1.1" opacity=".65"/><circle cx="675" cy="48" r=".8" opacity=".55"/>
+    <circle cx="781" cy="104" r="1" opacity=".5"/><circle cx="847" cy="54" r=".8" opacity=".45"/>
+    <circle cx="120" cy="235" r=".7" opacity=".35"/><circle cx="810" cy="235" r=".9" opacity=".4"/>
+    <circle cx="594" cy="25" r=".7" opacity=".5"/>
+  </g>
+
+  <!-- subtle mountain horizon -->
+  <path d="M0 286 L62 242 L104 268 L152 224 L205 276 L260 246 L315 282 L372 238 L420 274 L466 250 L512 280 L566 232 L620 272 L684 218 L733 269 L785 238 L840 274 L900 224 L920 245 L920 320 L0 320Z" fill="#020711" opacity=".88"/>
+  <path d="M0 302 L110 267 L174 294 L265 263 L348 299 L432 274 L520 301 L616 260 L705 298 L792 268 L920 294 L920 320 L0 320Z" fill="#01040a" opacity=".95"/>
+
+  <!-- realistic metallic spider emblem -->
+  <g transform="translate(460 82)" filter="url(#shadow)">
+    <circle r="47" fill="#050b12" opacity=".94"/>
+    <circle r="43" fill="none" stroke="url(#ringH)" stroke-width="1.7"/>
+    <circle r="39" fill="none" stroke="#a9fff6" stroke-opacity=".16" stroke-width="1" stroke-dasharray="2 5"/>
+
+    <g fill="none" stroke="url(#spiderMetal)" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round">
+      <!-- left legs: coxa, femur, tibia -->
+      <path d="M-12-9 L-22-17 L-31-28 L-39-35"/>
+      <path d="M-14-4 L-25-7 L-37-15 L-47-21"/>
+      <path d="M-14 3 L-27 4 L-39 1 L-49-3"/>
+      <path d="M-12 10 L-23 15 L-34 22 L-43 30"/>
+      <!-- right legs -->
+      <path d="M12-9 L22-17 L31-28 L39-35"/>
+      <path d="M14-4 L25-7 L37-15 L47-21"/>
+      <path d="M14 3 L27 4 L39 1 L49-3"/>
+      <path d="M12 10 L23 15 L34 22 L43 30"/>
+    </g>
+
+    <!-- leg joints -->
+    <g fill="#b7cbd6">
+      <circle cx="-22" cy="-17" r="2"/><circle cx="-31" cy="-28" r="1.7"/>
+      <circle cx="-25" cy="-7" r="2"/><circle cx="-37" cy="-15" r="1.7"/>
+      <circle cx="-27" cy="4" r="2"/><circle cx="-39" cy="1" r="1.7"/>
+      <circle cx="-23" cy="15" r="2"/><circle cx="-34" cy="22" r="1.7"/>
+      <circle cx="22" cy="-17" r="2"/><circle cx="31" cy="-28" r="1.7"/>
+      <circle cx="25" cy="-7" r="2"/><circle cx="37" cy="-15" r="1.7"/>
+      <circle cx="27" cy="4" r="2"/><circle cx="39" cy="1" r="1.7"/>
+      <circle cx="23" cy="15" r="2"/><circle cx="34" cy="22" r="1.7"/>
+    </g>
+
+    <!-- abdomen -->
+    <path d="M0-1 C-10 0 -13 9 -10 19 C-8 28 -4 34 0 37 C4 34 8 28 10 19 C13 9 10 0 0-1Z"
+          fill="url(#spiderDark)" stroke="url(#spiderMetal)" stroke-width="1.7"/>
+    <path d="M0 4 C-5 8 -6 17 -4 25 C-3 30 -1 33 0 34 C1 33 3 30 4 25 C6 17 5 8 0 4Z"
+          fill="#02050a" opacity=".82"/>
+    <!-- cephalothorax -->
+    <ellipse cy="-13" rx="10.5" ry="9" fill="url(#spiderDark)" stroke="url(#spiderMetal)" stroke-width="1.6"/>
+    <path d="M-7-15 Q0-21 7-15" fill="none" stroke="#d7e9f2" stroke-opacity=".6" stroke-width="1"/>
+    <!-- subtle abdomen highlight -->
+    <path d="M-3 3 C-6 12 -5 23 -1 29" fill="none" stroke="#d8f8f5" stroke-opacity=".28" stroke-width="1.3" stroke-linecap="round"/>
+    <!-- eyes -->
+    <g fill="#e9fffb">
+      <circle cx="-4" cy="-16" r="1.05"/><circle cx="4" cy="-16" r="1.05"/>
+      <circle cx="-2.2" cy="-18" r=".65" opacity=".75"/><circle cx="2.2" cy="-18" r=".65" opacity=".75"/>
+    </g>
+  </g>
+
+  <text x="460" y="173" font-family="Fira Code, monospace" font-size="45" font-weight="700" fill="url(#nameH)" text-anchor="middle" letter-spacing="4">ANSH BANSAL</text>
+  <text x="460" y="202" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#79d9d0" text-anchor="middle" letter-spacing="1.7">CS STUDENT · B.TECH COMPUTER SCIENCE &amp; ENGINEERING</text>
+  <text x="460" y="228" font-family="Fira Code, monospace" font-size="11.5" font-weight="500" fill="#93a9b9" text-anchor="middle" letter-spacing="1.25">HTML · CSS · JAVASCRIPT · SQL · PYTHON · JAVA · C</text>
+  <line x1="385" y1="246" x2="535" y2="246" stroke="#72ddd2" stroke-opacity=".28"/>
+  <text x="460" y="270" font-family="Fira Code, monospace" font-size="12" fill="#91a5b5" text-anchor="middle" letter-spacing=".35">Building things &amp; breaking things, one commit at a time</text>
+
+  <!-- premium border -->
+  <rect x="1.5" y="1.5" width="917" height="317" rx="23" fill="none" stroke="#9cb1c0" stroke-opacity=".22"/>
+  <path d="M25 2 H895" stroke="#6ee7dc" stroke-opacity=".16"/>
+</g>
+</svg>
