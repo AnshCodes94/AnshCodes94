@@ -1,11 +1,9 @@
 <div align="center">
 
 <img src="assets/header.svg" width="100%" />
-...
-<img src="assets/footer.svg" width="100%" />
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=220&section=header&text=ANSH%20BANSAL&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20STUDENT%20%7C%20JAVA%2C%20PYTHON%20%26%20FRONTEND%20DEVELOPER&descSize=16&descAlignY=70" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=220&section=header&text=ANSH%20BANSAL&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20STUDENT%20%7C%20JAVA%2C%20PYTHON%20%26%20FRONTEND%20DEVELOPER&descSize=16&descAlignY=70" width="100%" /> -->
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -15,6 +13,7 @@
 <br/>
 
 <!-- Connect With Me Links — Aurora Theme -->
+
 ### 🌌 Connect With Me
 
 <p align="center">
@@ -101,3 +100,5 @@ My GitHub profile serves as a central hub for my academic coursework, university
 </div>
 
 ---
+
+<img src="assets/footer.svg" width="100%" />
