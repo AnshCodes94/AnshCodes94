@@ -98,12 +98,12 @@ My GitHub profile serves as a central hub for my **academic coursework, universi
 <div align="center">
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=AnshCodes94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ansh's GitHub Stats" width="48%" /> -->
+  <!-- <img src="https://githubreadmestatsfast.vercel.app/api?username=AnshCodes94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ansh's GitHub Stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshCodes94&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Streak" width="48%" />
 </p>
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnshCodes94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=AnshCodes94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p> -->
 
 </div>
